@@ -23,7 +23,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Militar" },
           { id: "d", texto: "Doméstico" },
         ],
-        resposta: "b",
+        resposta: "c",
         explicacao:
           "Na matemática, a multiplicação tem precedência sobre a adição. Portanto, primeiro calculamos 4 × 2 = 8, e depois somamos 3, resultando em 11.",
       },
@@ -161,7 +161,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Estrela." },
           { id: "d", texto: "Repetidor." },
         ],
-        resposta: "c",
+        resposta: "b",
         explicacao:
           "A alternativa correta é 'Existem muitos problemas a serem resolvidos', pois o verbo 'existir' concorda com o sujeito 'muitos problemas'.",
       },
@@ -174,7 +174,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Modem" },
           { id: "d", texto: "Roteador" },
         ],
-        resposta: "b",
+        resposta: "d",
         explicacao:
           "A grafia correta é: exceção (ato de excetuar), excesso (o que ultrapassa) e interseção (ponto comum).",
       },
@@ -200,7 +200,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Menos velocidade." },
           { id: "d", texto: "Mais velocidade e menos interferência." },
         ],
-        resposta: "a",
+        resposta: "d",
         explicacao:
           "Em 'Refiro-me à aluna que chegou atrasada', o uso da crase está correto, pois há a contração da preposição 'a' exigida pelo verbo 'referir-se' com o artigo 'a' que antecede o substantivo feminino 'aluna'.",
       },
@@ -213,7 +213,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "DHCP" },
           { id: "d", texto: "FTP" },
         ],
-        resposta: "d",
+        resposta: "c",
         explicacao:
           "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
       },
@@ -226,7 +226,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Todos os dispositivos conectados" },
           { id: "d", texto: "Apenas redes externas" },
         ],
-        resposta: "d",
+        resposta: "c",
         explicacao:
           "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
       },
@@ -239,7 +239,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "DNS" },
           { id: "d", texto: "URL" },
         ],
-        resposta: "d",
+        resposta: "b",
         explicacao:
           "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
       },
@@ -252,7 +252,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Dados enviados em horários diferentes" },
           { id: "d", texto: "Comunicação entre switches" },
         ],
-        resposta: "d",
+        resposta: "b",
         explicacao:
           "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
       },
@@ -265,12 +265,12 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Roteador" },
           { id: "d", texto: "Repetidor" },
         ],
-        resposta: "d",
+        resposta: "c",
         explicacao:
           "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
       },
       {
-        id: 9,
+        id: 10,
         enunciado: "Para criar uma rede, é necessário:",
         alternativas: [
           { id: "a", texto: "Apenas um roteador" },
@@ -278,7 +278,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Dispositivos e equipamentos de comunicação nas pontas" },
           { id: "d", texto: "Internet via satélite" },
         ],
-        resposta: "d",
+        resposta: "c",
         explicacao:
           "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
       },
@@ -305,7 +305,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Anel" },
           { id: "d", texto: "Malha" },
         ],
-        resposta: "b",
+        resposta: "c",
         explicacao:
           "A Proclamação da República no Brasil ocorreu em 15 de novembro de 1889, quando um golpe militar liderado pelo Marechal Deodoro da Fonseca derrubou a monarquia e instaurou o regime republicano.",
       },
@@ -318,7 +318,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Barramento" },
           { id: "d", texto: "Ponto a ponto" },
         ],
-        resposta: "b",
+        resposta: "c",
         explicacao:
           "A Era Vargas compreende o período de 1930 a 1945, quando Getúlio Vargas governou o Brasil de forma contínua, primeiro como chefe do Governo Provisório, depois como presidente eleito pelo voto indireto e, por fim, como ditador durante o Estado Novo.",
       },
@@ -331,7 +331,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Árvore" },
           { id: "d", texto: "Anel" },
         ],
-        resposta: "a",
+        resposta: "b",
         explicacao:
           "O período colonial brasileiro teve início com a chegada da esquadra de Pedro Álvares Cabral ao território que viria a ser o Brasil, em 22 de abril de 1500, marcando o começo da colonização portuguesa.",
       },
@@ -344,7 +344,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Árvore" },
           { id: "d", texto: "Malha" },
         ],
-        resposta: "c",
+        resposta: "a",
         explicacao:
           "D. Pedro II foi o segundo e último imperador do Brasil, governando de 1831 (efetivamente a partir de 1840, após o período regencial) até 1889, quando foi deposto pela Proclamação da República.",
       },
@@ -357,7 +357,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Anel" },
           { id: "d", texto: "Malha" },
         ],
-        resposta: "c",
+        resposta: "b",
         explicacao:
           "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
       },
@@ -383,7 +383,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Árvore" },
           { id: "d", texto: "Híbrida" },
         ],
-        resposta: "c",
+        resposta: "a",
         explicacao:
           "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
       },
@@ -409,7 +409,7 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Anel" },
           { id: "d", texto: "Malha" },
         ],
-        resposta: "c",
+        resposta: "b",
         explicacao:
           "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
       },
