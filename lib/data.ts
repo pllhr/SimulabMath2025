@@ -25,7 +25,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "Na matemática, a multiplicação tem precedência sobre a adição. Portanto, primeiro calculamos 4 × 2 = 8, e depois somamos 3, resultando em 11.",
+          "📌 A internet surgiu como uma solução militar na Guerra Fria, quando os EUA criaram a ARPANET para proteger suas comunicações.",
       },
       {
         id: 2,
@@ -38,7 +38,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "d",
         explicacao:
-          "Este é um triângulo retângulo (3-4-5). A área de um triângulo retângulo é metade do produto dos catetos: (3 × 4) ÷ 2 = 6 unidades quadradas.",
+          "A ARPANET foi a primeira rede de computadores do mundo, conectando instituições acadêmicas e militares.",
       },
       {
         id: 3,
@@ -51,7 +51,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "Para resolver a equação 2x + 5 = 15, subtraímos 5 de ambos os lados: 2x = 10. Em seguida, dividimos ambos os lados por 2: x = 5.",
+          "📌 O Network Control Protocol foi o primeiro protocolo de comunicação entre computadores na ARPANET.",
       },
       {
         id: 4,
@@ -63,11 +63,11 @@ export const simuladosData: Simulado[] = [
           { id: "d", texto: "1989" },
         ],
         resposta: "b",
-        explicacao: "O valor de π (pi) é aproximadamente 3.14159... Arredondado para duas casas decimais, temos 3.14.",
+        explicacao: "📌 Em 1969 foi realizada a primeira conexão entre computadores da ARPANET, marcando o início da internet.",
       },
       {
         id: 5,
-        enunciado: "Qual foi a primeira tentativa de palavra enviada pela ARPANET?",
+        enunciado: "📌 O primeiro comando enviado na ARPANET seria login, mas a conexão caiu após digitar lo",
         alternativas: [
           { id: "a", texto: "Hello" },
           { id: "b", texto: "Login" },
@@ -87,8 +87,8 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Noruega" },
           { id: "d", texto: "Inglaterra" },
         ],
-        "resposta": "c",
-        "explicacao": "Tim Berners-Lee criou a World Wide Web em 1989 enquanto trabalhava no CERN, propondo um sistema de hipertexto para compartilhar informações."
+        resposta: "c",
+        explicacao: "📌 A Noruega foi o primeiro país fora dos EUA a se conectar à ARPANET, mostrando a expansão internacional do projeto."
       },
       {
         id: 7,
@@ -99,8 +99,8 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "TCP e IP" },
           { id: "d", texto: "IP e SSL" },
         ],
-        "resposta": "c",
-        "explicacao": "Tim Berners-Lee criou a World Wide Web em 1989 enquanto trabalhava no CERN, propondo um sistema de hipertexto para compartilhar informações."
+        resposta: "c",
+        explicacao: "📌 O protocolo TCP/IP é formado pela junção de dois protocolos: TCP (controle) e IP (endereçamento e roteamento)."
       },
       {
         id: 8,
@@ -111,8 +111,8 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "US$ 1 milhão" },
           { id: "d", texto: "US$ 50 mil" },
         ],
-        "resposta": "c",
-        "explicacao": "Tim Berners-Lee criou a World Wide Web em 1989 enquanto trabalhava no CERN, propondo um sistema de hipertexto para compartilhar informações."
+        resposta: "c",
+        explicacao: "📌 O investimento inicial da ARPANET foi de US$ 1 milhão, retirado do orçamento de mísseis balísticos."
       },
       {
         id: 9,
@@ -123,20 +123,20 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "1995" },
           { id: "d", texto: "2000" },
         ],
-        "resposta": "c",
-        "explicacao": "Tim Berners-Lee criou a World Wide Web em 1989 enquanto trabalhava no CERN, propondo um sistema de hipertexto para compartilhar informações."
+        resposta: "c",
+        explicacao: "📌 No Brasil, o acesso à internet para uso comercial foi liberado em 1995; antes era restrito a instituições públicas."
       },
       {
-        id: 9,
-        enunciado: "No Brasil, a internet passou a ter uso comercial a partir de:",
+        id: 10,
+        enunciado: "A ARPANET foi desenvolvida por qual organização dos EUA?:",
         alternativas: [
           { id: "a", texto: "NASA" },
           { id: "b", texto: "FBI" },
           { id: "c", texto: "CIA" },
           { id: "d", texto: "ARPA" },
         ],
-        "resposta": "d",
-        "explicacao": "Tim Berners-Lee criou a World Wide Web em 1989 enquanto trabalhava no CERN, propondo um sistema de hipertexto para compartilhar informações."
+        resposta: "d",
+        explicacao: "📌 A ARPANET foi criada pela ARPA (Advanced Research Projects Agency), do Departamento de Defesa dos EUA."
       },
     ],
   },
@@ -163,7 +163,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "A alternativa correta é 'Existem muitos problemas a serem resolvidos', pois o verbo 'existir' concorda com o sujeito 'muitos problemas'.",
+          "📌 É o modelo mais comum de rede. Um servidor fornece recursos e serviços, e os clientes acessam e utilizam esses serviços.",
       },
       {
         id: 2,
@@ -176,7 +176,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "d",
         explicacao:
-          "A grafia correta é: exceção (ato de excetuar), excesso (o que ultrapassa) e interseção (ponto comum).",
+          "📌 O roteador conecta redes diferentes (ex: sua casa com a internet) e direciona os pacotes de dados ao destino correto.",
       },
       {
         id: 3,
@@ -189,7 +189,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "A frase 'Assisti o filme ontem' apresenta erro de regência, pois o verbo 'assistir' no sentido de 'ver' exige a preposição 'a': 'Assisti ao filme ontem'.",
+          "📌 O roteador utiliza o NAT para transformar vários IPs internos em um único IP externo, permitindo o acesso à internet.",
       },
       {
         id: 4,
@@ -202,7 +202,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "d",
         explicacao:
-          "Em 'Refiro-me à aluna que chegou atrasada', o uso da crase está correto, pois há a contração da preposição 'a' exigida pelo verbo 'referir-se' com o artigo 'a' que antecede o substantivo feminino 'aluna'.",
+          "📌 A frequência 5 GHz oferece maior velocidade, mas com alcance menor. Ideal para lugares com muitos dispositivos.",
       },
       {
         id: 5,
@@ -215,7 +215,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
+          "📌 O roteador atua como servidor DHCP, atribuindo automaticamente endereços IP para dispositivos conectados.",
       },
       {
         id: 6,
@@ -228,7 +228,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
+          "📌 O hub transmite dados para todos os dispositivos conectados, o que pode causar colisões e lentidão.",
       },
       {
         id: 7,
@@ -241,7 +241,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
+          "📌 O switch usa o endereço MAC de cada dispositivo para enviar os dados apenas ao destino correto.",
       },
       {
         id: 8,
@@ -254,7 +254,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
+          "📌 Full-duplex permite que dois dispositivos comuniquem entre si ao mesmo tempo, melhorando o desempenho.",
       },
       {
         id: 9,
@@ -267,7 +267,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
+          "📌 Quando há duas redes diferentes (com IPs distintos), é o roteador que faz a ponte entre elas.",
       },
       {
         id: 10,
@@ -280,7 +280,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A alternativa correta é 'O professor, que é muito exigente, deu uma prova difícil', pois a oração adjetiva explicativa deve ser separada por vírgulas.",
+          "📌 Para criar uma rede, é preciso ter dispositivos (computadores, switches, roteadores etc.) conectados entre si.",
       },
     ],
   },
@@ -307,7 +307,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A Proclamação da República no Brasil ocorreu em 15 de novembro de 1889, quando um golpe militar liderado pelo Marechal Deodoro da Fonseca derrubou a monarquia e instaurou o regime republicano.",
+          "📌 Na topologia anel, os dispositivos são conectados em forma de círculo, com o tráfego de dados fluindo por um caminho unidirecional.",
       },
       {
         id: 2,
@@ -320,7 +320,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A Era Vargas compreende o período de 1930 a 1945, quando Getúlio Vargas governou o Brasil de forma contínua, primeiro como chefe do Governo Provisório, depois como presidente eleito pelo voto indireto e, por fim, como ditador durante o Estado Novo.",
+          "📌 A topologia barramento utiliza um único cabo central para conectar todos os dispositivos. Os dados fluem ao longo desse cabo.",
       },
       {
         id: 3,
@@ -333,7 +333,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "O período colonial brasileiro teve início com a chegada da esquadra de Pedro Álvares Cabral ao território que viria a ser o Brasil, em 22 de abril de 1500, marcando o começo da colonização portuguesa.",
+          "📌 Na topologia em malha, todos os dispositivos se conectam entre si. Isso cria múltiplos caminhos, garantindo confiabilidade.",
       },
       {
         id: 4,
@@ -346,7 +346,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "a",
         explicacao:
-          "D. Pedro II foi o segundo e último imperador do Brasil, governando de 1831 (efetivamente a partir de 1840, após o período regencial) até 1889, quando foi deposto pela Proclamação da República.",
+          "📌 A topologia híbrida combina duas ou mais topologias, aproveitando o que há de melhor em cada uma. É a mais usada no mercado.",
       },
       {
         id: 5,
@@ -359,7 +359,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
+          "📌 Nessa topologia, todos os dispositivos se conectam a um ponto central (hub ou switch), formando um formato de estrela.",
       },
       {
         id: 6,
@@ -372,7 +372,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
+          "📌 Tanto na estrela quanto na árvore, a dependência do hub central é uma vulnerabilidade: se ele falhar, a rede cai.",
       },
       {
         id: 7,
@@ -385,7 +385,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "a",
         explicacao:
-          "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
+          "📌 A ponto a ponto conecta apenas dois dispositivos diretamente. É simples e usada em ambientes domésticos ou de pequeno porte.",
       },
       {
         id: 8,
@@ -398,7 +398,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
+          "📌 Na topologia barramento, se o cabo central falhar, toda a rede é afetada, pois todos os dados passam por ele.",
       },
       {
         id: 9,
@@ -411,7 +411,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
+          "📌 A topologia em árvore organiza os dispositivos em estrutura hierárquica, semelhante a galhos de uma árvore.",
       },
       {
         id: 10,
@@ -424,7 +424,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "A Lei Áurea foi promulgada em 13 de maio de 1888 pela Princesa Isabel, que atuava como regente do Império na ausência de seu pai, D. Pedro II. Esta lei aboliu oficialmente a escravidão no Brasil.",
+          "📌 A topologia malha exige muitos cabos e conexões, o que encarece e torna complexa a instalação e manutenção.",
       },
     ],
   },
@@ -432,13 +432,13 @@ export const simuladosData: Simulado[] = [
     id: "4",
     titulo: "Tipos de Cabos de Rede",
     descricao: "Tipos de Cabos de Rede",
-    numQuestoes: 5,
+    numQuestoes: 10,
     duracao: "40 minutos",
     duracaoEmSegundos: 2400,
     nivel: "Difícil",
     topicos: ["Leis de Newton", "Cinemática", "Dinâmica", "Energia", "Trabalho"],
-    tentativas: 543,
-    mediaAcertos: 45,
+    tentativas: 1,
+    mediaAcertos: 1,
     questoes: [
       {
         id: 1,
@@ -458,7 +458,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "A Primeira Lei de Newton, também conhecida como Lei da Inércia, afirma que um corpo em repouso tende a permanecer em repouso e um corpo em movimento tende a permanecer em movimento retilíneo uniforme, a menos que uma força resultante atue sobre ele.",
+          "📌 O cabo coaxial foi inventado na década de 1930. É um dos mais antigos meios de transmissão de sinais.",
       },
       {
         id: 2,
@@ -470,26 +470,12 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "TV a cabo e áudio" },
           { id: "d", texto: "Servidores de data center" },
         ],
-        resposta: "b",
+        resposta: "c",
         explicacao:
-          "Para calcular a altura máxima, usamos a equação v² = v₀² - 2gh, onde v é a velocidade final (zero no ponto mais alto), v₀ é a velocidade inicial (20 m/s), g é a aceleração da gravidade (10 m/s²) e h é a altura. Substituindo: 0 = 400 - 20h, logo h = 20 metros.",
+          "📌 Cabos coaxiais são amplamente usados para TV por assinatura, ligações de som e antenas de rádio/TV.",
       },
       {
         id: 3,
-        enunciado:
-          "Um bloco de 2 kg está em repouso sobre uma superfície horizontal sem atrito. Qual força horizontal deve ser aplicada para que o bloco adquira uma aceleração de 3 m/s²?",
-        alternativas: [
-          { id: "a", texto: "1 N" },
-          { id: "b", texto: "2 N" },
-          { id: "c", texto: "6 N" },
-          { id: "d", texto: "8 N" },
-        ],
-        resposta: "c",
-        explicacao:
-          "Pela Segunda Lei de Newton, F = m·a, onde F é a força, m é a massa e a é a aceleração. Substituindo os valores: F = 2 kg · 3 m/s² = 6 N.",
-      },
-      {
-        id: 4,
         enunciado: "Uma desvantagem do cabo coaxial é:",
         alternativas: [
           { id: "a", texto: "Alta velocidade" },
@@ -497,12 +483,12 @@ export const simuladosData: Simulado[] = [
           { id: "c", texto: "Limite de 10 Mbps e conexão com terminais especiais" },
           { id: "d", texto: "Compatibilidade com fibra óptica" },
         ],
-        resposta: "a",
+        resposta: "c",
         explicacao:
-          "Primeiro, calculamos a velocidade em km/h: v = 120 km / 2 h = 60 km/h. Para converter para m/s, multiplicamos por 1000 (para converter km para m) e dividimos por 3600 (para converter h para s): v = 60 · 1000 / 3600 = 16,7 m/s.",
+          "📌 O coaxial tem baixa taxa de transmissão e exige conectores especiais, o que limita seu uso em redes modernas.",
       },
       {
-        id: 5,
+        id: 4,
         enunciado:
           " O cabo de par trançado é identificado pelo uso de:",
         alternativas: [
@@ -513,10 +499,10 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "Quando um objeto de massa m está suspenso por uma corda em equilíbrio, a tensão na corda deve equilibrar o peso do objeto. O peso é dado por P = m·g, onde g é a aceleração da gravidade. Portanto, a tensão na corda é T = m·g.",
+          "📌 O cabo de par trançado utiliza o conector RJ-45 e é o padrão mais comum para redes Ethernet locais.",
       },
       {
-        id: 6,
+        id: 5,
         enunciado:
           " Qual tipo de cabo é o principal para redes locais (LAN) desde os anos 1990?",
         alternativas: [
@@ -527,7 +513,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "c",
         explicacao:
-          "Quando um objeto de massa m está suspenso por uma corda em equilíbrio, a tensão na corda deve equilibrar o peso do objeto. O peso é dado por P = m·g, onde g é a aceleração da gravidade. Portanto, a tensão na corda é T = m·g.",
+          "📌 Desde os anos 1990, o par trançado é o principal tipo de cabeamento utilizado em redes LAN.",
       },
       {
         id: 6,
@@ -539,7 +525,7 @@ export const simuladosData: Simulado[] = [
           { id: "d", texto: "Sinais analógicos" }
         ],
         resposta: "c",
-        explicacao: "A fibra óptica transmite dados por meio de pulsos de luz, que são enviados através de um núcleo de vidro ou plástico, permitindo alta velocidade e eficiência na transmissão de dados.",
+        explicacao: "📌 A fibra óptica transmite dados por meio de luz, que se propaga internamente pelo núcleo da fibra.",
       },
       {
         id: 7,
@@ -551,7 +537,7 @@ export const simuladosData: Simulado[] = [
           { id: "d", texto: "Instalação de cabos submarinos" }
         ],
         resposta: "c",
-        explicacao: "A Lei de Snell descreve a refração da luz e é fundamental para entender a reflexão total interna, que permite que a luz se propague dentro da fibra óptica sem perdas significativas."
+        explicacao: "📌 O princípio da reflexão total interna, segundo a Lei de Snell, permite que a luz permaneça dentro da fibra."
       },
       {
         id: 8,
@@ -575,19 +561,19 @@ export const simuladosData: Simulado[] = [
           { id: "d", texto: "Longas distâncias com cabos submarinos" }
         ],
         resposta: "d",
-        explicacao: "A fibra monomodo, com um núcleo menor (cerca de 9 µm), permite a propagação de um único modo de luz, reduzindo a dispersão e sendo ideal para longas distâncias, como em cabos submarinos."
+        explicacao: "📌 A fibra monomodo, por ter apenas um caminho de luz, é ideal para transmissões em longas distâncias (como cabos oceânicos)."
       },
       {
         id: 10,
         enunciado: "Uma desvantagem da fibra monomodo é:",
         alternativas: [
-          { id: "A", texto: "Alta dispersão" },
-          { id: "B", texto: "Baixa velocidade" },
-          { id: "C", texto: "Alto custo de fabricação e instalação" },
-          { id: "D", texto: "Uso limitado a pequenas redes" }
+          { id: "a", texto: "Alta dispersão" },
+          { id: "b", texto: "Baixa velocidade" },
+          { id: "c", texto: "Alto custo de fabricação e instalação" },
+          { id: "d", texto: "Uso limitado a pequenas redes" }
         ],
-        resposta: "C",
-        explicacao: "A fibra monomodo tem um custo de fabricação e instalação mais alto devido à precisão necessária no alinhamento e na fonte de luz (geralmente laser), embora seja mais eficiente para longas distâncias."
+        resposta: "c",
+        explicacao: "📌 Apesar da eficiência, a fibra monomodo é mais cara para fabricar e instalar do que a multimodo ou o par trançado."
       }
     ],
   },
@@ -600,20 +586,20 @@ export const simuladosData: Simulado[] = [
     duracaoEmSegundos: 2700,
     nivel: "Difícil",
     topicos: ["Hidrocarbonetos", "Funções Orgânicas", "Isomeria", "Reações Orgânicas", "Polímeros"],
-    tentativas: 432,
-    mediaAcertos: 42,
+    tentativas: 1,
+    mediaAcertos: 1,
     questoes: [
       {
         id: 1,
         enunciado: "A topologia física se refere a:",
         alternativas: [
-          { id: "A", texto: "Lógica da transmissão dos dados" },
-          { id: "B", texto: "Frequência de onda" },
-          { id: "C", texto: "Disposição física dos cabos e dispositivos" },
-          { id: "D", texto: "Velocidade da internet" }
+          { id: "a", texto: "Lógica da transmissão dos dados" },
+          { id: "b", texto: "Frequência de onda" },
+          { id: "c", texto: "Disposição física dos cabos e dispositivos" },
+          { id: "d", texto: "Velocidade da internet" }
         ],
-        resposta: "C",
-        explicacao: "A topologia física se refere à disposição física dos cabos e dispositivos em uma rede, como a organização dos componentes de hardware."
+        resposta: "c",
+        explicacao: "📌 A topologia física se refere à disposição física dos cabos e dispositivos em uma rede, como a organização dos componentes de hardware."
       },
       {
         id: 2,
@@ -625,7 +611,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "O número de portas do switch" }
         ],
         resposta: "B",
-        explicacao: "A topologia lógica trata da organização do tráfego de dados, ou seja, a forma como os dados fluem na rede, independentemente da disposição física."
+        explicacao: "📌 A topologia lógica trata da organização do tráfego de dados, ou seja, a forma como os dados fluem na rede, independentemente da disposição física."
       },
       {
         id: 3,
@@ -637,7 +623,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Uma luz de alerta do roteador" }
         ],
         resposta: "C",
-        explicacao: "Um sinal é uma sequência de estados que codifica uma mensagem, como pulsos elétricos ou ondas, usados para transmitir informações em uma rede."
+        explicacao: "📌 Um sinal é uma sequência de estados que codifica uma mensagem, como pulsos elétricos ou ondas, usados para transmitir informações em uma rede."
       },
       {
         id: 4,
@@ -649,7 +635,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Pode ser substituído por cabos" }
         ],
         resposta: "B",
-        explicacao: "O ar é considerado um meio de transmissão porque transmite sinais eletromagnéticos, como ondas de rádio ou Wi-Fi, permitindo a comunicação sem fio."
+        explicacao: "📌 O ar é considerado um meio de transmissão porque transmite sinais eletromagnéticos, como ondas de rádio ou Wi-Fi, permitindo a comunicação sem fio."
       },
       {
         id: 5,
@@ -661,7 +647,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Requer um switch inteligente" }
         ],
         resposta: "C",
-        explicacao: "No modo Simplex, a transmissão de dados ocorre em uma única direção, como em um sistema de rádio ou TV, onde apenas um lado envia e o outro recebe."
+        explicacao: "📌 No modo Simplex, a transmissão de dados ocorre em uma única direção, como em um sistema de rádio ou TV, onde apenas um lado envia e o outro recebe."
       },
       {
         id: 6,
@@ -673,7 +659,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Walkie Talkie" }
         ],
         resposta: "D",
-        explicacao: "Um exemplo de comunicação Half Duplex é o Walkie Talkie, pois permite que apenas uma parte transmita por vez, enquanto a outra escuta, alternando entre envio e recebimento."
+        explicacao: "📌 Um exemplo de comunicação Half Duplex é o Walkie Talkie, pois permite que apenas uma parte transmita por vez, enquanto a outra escuta, alternando entre envio e recebimento."
       },
       {
         id: 7,
@@ -685,7 +671,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Compartilhamento de arquivos físicos" }
         ],
         resposta: "B",
-        explicacao: "A transmissão Full Duplex permite envio e recebimento ao mesmo tempo, como em chamadas telefônicas, onde ambas as partes podem falar e ouvir simultaneamente."
+        explicacao: "📌 A transmissão Full Duplex permite envio e recebimento ao mesmo tempo, como em chamadas telefônicas, onde ambas as partes podem falar e ouvir simultaneamente."
       },
       {
         id: 8,
@@ -697,7 +683,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "O som é criptografado" }
         ],
         resposta: "B",
-        explicacao: "O vácuo não transmite som porque não há um meio físico para propagar, já que o som precisa de um meio material, como ar, água ou sólidos, para se propagar."
+        explicacao: "📌 O vácuo não transmite som porque não há um meio físico para propagar, já que o som precisa de um meio material, como ar, água ou sólidos, para se propagar."
       },
       {
         id: 9,
@@ -709,7 +695,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Rede Wi-Fi" }
         ],
         resposta: "B",
-        explicacao: "Um exemplo claro de transmissão Simplex é o rádio, pois a comunicação ocorre em uma única direção, do transmissor para o receptor, sem interação de volta."
+        explicacao: "📌 Um exemplo claro de transmissão Simplex é o rádio, pois a comunicação ocorre em uma única direção, do transmissor para o receptor, sem interação de volta."
       },
       {
         id: 10,
@@ -721,7 +707,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Reduzida para metade da velocidade" }
         ],
         resposta: "B",
-        explicacao: "Em uma rede Full Duplex, a banda é dividida em partes iguais para cada sentido, permitindo que a transmissão e recepção ocorram simultaneamente sem perda de desempenho."
+        explicacao: "📌 Em uma rede Full Duplex, a banda é dividida em partes iguais para cada sentido, permitindo que a transmissão e recepção ocorram simultaneamente sem perda de desempenho."
       }
     ],
   },
@@ -759,7 +745,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Transmissão de arquivos grandes" }
         ],
         resposta: "C",
-        explicacao: "O RFID é mais utilizado para identificação automática de objetos, como em etiquetas de produtos, cartões de acesso ou rastreamento de mercadorias."
+        explicacao: "📌 A tecnologia RFID (Radio Frequency Identification) identifica objetos por meio de etiquetas que emitem sinais de rádio."
       },
       {
         id: 3,
@@ -771,7 +757,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "10 a 20 metros" }
         ],
         resposta: "B",
-        explicacao: "O NFC possui alcance de 4 a 10 centímetros, sendo ideal para comunicações de curta distância, como pagamentos por aproximação."
+        explicacao: "📌 O NFC possui alcance de 4 a 10 centímetros, sendo ideal para comunicações de curta distância, como pagamentos por aproximação."
       },
       {
         id: 4,
@@ -783,7 +769,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "640 kbps" }
         ],
         resposta: "C",
-        explicacao: "A frequência padrão utilizada pelo NFC é 13,56 MHz, adequada para comunicações de curto alcance e baixa potência."
+        explicacao: "📌 Essa é a frequência padrão em que dispositivos NFC operam, garantindo comunicação segura em curta distância."
       },
       {
         id: 5,
@@ -795,7 +781,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Instalação de câmeras industriais" }
         ],
         resposta: "B",
-        explicacao: "O Bluetooth é comumente utilizado para conexão de dispositivos pessoais próximos, como fones de ouvido, teclados e smartphones, devido à sua praticidade em curtas distâncias."
+        explicacao: "📌 O Bluetooth foi criado para conectar dispositivos de uso pessoal a curta distância, como fones de ouvido, caixas de som e relógios."
       },
       {
         id: 6,
@@ -807,7 +793,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "Baixo consumo de energia e uso em IoT" }
         ],
         resposta: "D",
-        explicacao: "O ZigBee se destaca por seu baixo consumo de energia e uso em IoT, sendo ideal para dispositivos como sensores e controles inteligentes que precisam operar por longos períodos com eficiência energética."
+        explicacao: "📌 O ZigBee é voltado para a Internet das Coisas, ideal para dispositivos de baixo consumo como lâmpadas inteligentes e sensores."
       },
       {
         id: 7,
@@ -819,7 +805,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "3 GHz e 7 GHz" }
         ],
         resposta: "C",
-        explicacao: "As duas faixas de frequência do Wi-Fi padrão são 2,4 GHz e 5 GHz, amplamente utilizadas para oferecer diferentes alcances e velocidades em redes sem fio."
+        explicacao: "📌 As redes Wi-Fi modernas funcionam nessas duas faixas: 2.4 GHz para maior alcance, e 5 GHz para maior velocidade."
       },
       {
         id: 8,
@@ -831,7 +817,7 @@ export const simuladosData: Simulado[] = [
           { id: "D", texto: "IEEE 802.3" }
         ],
         resposta: "B",
-        explicacao: "O padrão que define os protocolos do Wi-Fi é o IEEE 802.11, que estabelece as normas para redes sem fio, incluindo diferentes versões como 802.11a, 802.11b, 802.11g, entre outras."
+        explicacao: "📌 Essa é a família de protocolos responsável por padronizar o funcionamento das redes Wi-Fi em todo o mundo."
       }
     ],
   },
