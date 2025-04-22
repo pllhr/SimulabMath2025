@@ -714,14 +714,14 @@ export const simuladosData: Simulado[] = [
   {
     id: "6",
     titulo: "Redes Sem Fio",
-    descricao: "Questões sobre geografia física e política mundial",
-    numQuestoes: 5,
+    descricao: "Questões sobre Redes Sem Fio",
+    numQuestoes: 8,
     duracao: "35 minutos",
     duracaoEmSegundos: 2100,
     nivel: "Médio",
     topicos: ["Geopolítica", "Clima", "Relevo", "População", "Recursos Naturais"],
-    tentativas: 678,
-    mediaAcertos: 55,
+    tentativas: 1,
+    mediaAcertos: 1,
     questoes: [
       {
         id: 1,
