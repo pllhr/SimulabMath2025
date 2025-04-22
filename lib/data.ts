@@ -67,7 +67,7 @@ export const simuladosData: Simulado[] = [
       },
       {
         id: 5,
-        enunciado: "📌 O primeiro comando enviado na ARPANET seria login, mas a conexão caiu após digitar lo",
+        enunciado: "Qual foi a primeira tentativa de palavra enviada pela ARPANET?",
         alternativas: [
           { id: "a", texto: "Hello" },
           { id: "b", texto: "Login" },
@@ -76,7 +76,7 @@ export const simuladosData: Simulado[] = [
         ],
         resposta: "b",
         explicacao:
-          "O perímetro de um retângulo é calculado pela fórmula P = 2(comprimento + largura). Portanto, P = 2(8 + 6) = 2(14) = 28 cm.",
+          "📌 O primeiro comando enviado na ARPANET seria login, mas a conexão caiu após digitar lo.",
       },
       {
         id: 6,
